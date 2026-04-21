@@ -1,1 +1,2 @@
 created enclousher for the powerbank in tow versions 
+made BOM file for battery and solarpennel
